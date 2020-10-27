@@ -1,5 +1,5 @@
 # life-reading
-My very critical collation of seminal internet blogs, papers, pdf books, videos on **philosophy, finance, business, and life**.
+A short curation of seminal internet blogs, papers, pdf books, videos on **philosophy, finance, business, and life**.
 
 ### Life Philosophy
 1. [Unqualified Reservations by Mencius Moldbug](https://www.unqualified-reservations.org/#archive)`blog`
