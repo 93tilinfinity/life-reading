@@ -5,7 +5,7 @@ My very critical collation of seminal internet blogs, papers, pdf books, videos 
 1. [Unqualified Reservations by Mencius Moldbug](https://www.unqualified-reservations.org/#archive)`blog`
 
 ### Business
-2. [Essays by Paul Graham](http://www.paulgraham.com/articles.html)`blog`
+1. [Essays by Paul Graham](http://www.paulgraham.com/articles.html)`blog`
 
 ### Finance
 1. [Convexity Maven by Harley Bassman](https://www.convexitymaven.com/newcommentary.html)`blog`
