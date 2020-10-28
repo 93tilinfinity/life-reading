@@ -3,6 +3,7 @@ A short curation of seminal internet blogs, papers, pdf books, videos on **philo
 
 ### Life Philosophy
 1. [Unqualified Reservations by Mencius Moldbug](https://www.unqualified-reservations.org/#archive)`blog`
+2. [Less Wrong](https://www.lesswrong.com/)`forum`
 
 ### Business
 1. [Essays by Paul Graham](http://www.paulgraham.com/articles.html)`blog`
@@ -16,3 +17,4 @@ A short curation of seminal internet blogs, papers, pdf books, videos on **philo
 3. [Adding Art to the Rigor of Statistical Science](https://www.cs.ubc.ca/~murphyk/Bayes/nyt.28april01.html)`article`
 4. [The Metamorphosis of Prime Intellect](http://localroger.com/prime-intellect/mopiidx.html)`book`
 5. [What Is Literature?](http://faculty.weber.edu/ccall2/images/interests/WorldLit/WhatIsLiterature.pdf)`book`
+6. [How to Pick a Career (that actually fits you)](https://waitbutwhy.com/2018/04/picking-career.html)`article`
